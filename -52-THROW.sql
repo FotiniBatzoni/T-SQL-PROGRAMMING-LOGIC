@@ -1,0 +1,1 @@
+THROW 999999, 'This is a test error.', 1 
